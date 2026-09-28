@@ -1,0 +1,6 @@
+{
+  "name": "منسباتي — Mnasbati",
+  "description": "منصة إدارة وتصميم الدعوات الرقمية الفاخرة — دعوتك... بأسلوب يليق بمناسبتك",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
